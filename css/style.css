@@ -1,0 +1,176 @@
+/* first section styles */
+
+.section-block {
+    width: 1336px;
+    height: 178px;
+    display: flex;
+    flex-direction: column;
+    margin: 80px auto;
+}
+.section-div {
+    width: 716px;
+    margin: 0px auto;
+    text-align: center;
+}
+.H-5 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    font-family: "Inter", sans-serif;
+    color: #282828;
+}
+.H-1 {
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 62px;
+    margin-bottom: 4px;
+    font-family: "Inter", sans-serif;
+    color: #282828;
+}
+.P-1 {
+    width: 760px;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 16px;
+    font-weight: 400;
+    line-height: 35px;
+    font-family: "Inter", sans-serif; 
+    color: #5F6980;
+}
+/* second section styles */
+
+.section-block2 {
+    width: 1336px;
+    height: 908px;
+    margin: 48px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.proffile-div {
+    width: 310px;
+    height: 430px;
+}
+.proffile-info {
+    width: 278px;
+    height: 108px;
+    margin: 0px 16px;
+}
+.H-4 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    font-family: "Inter", sans-serif;
+}
+.H-6 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #3E3E59;
+    font-family: "Inter", sans-serif;
+    padding-bottom: 4px;
+}
+.P-2 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    font-family: "Inter", sans-serif;
+    color: #5F6980;
+    padding-bottom: 8px;
+}
+.icon-div {
+    display: flex;
+    width: 278px;
+    height: 36px;
+    margin: 24px auto 0px;
+}
+.icon-background {
+    display: flex;
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.logo-distance {
+    margin-right: 16px;
+}
+/* footer styles */
+
+.footer {
+    display: flex;
+    width: 100%;
+    height: 460px;
+    background-color: #53535354;
+    
+}
+.footer-div {
+    width: 1128px;
+    height: 223px;
+    background-color: aqua;
+    display: flex;
+}
+.footerdiv-1 {
+    width: 318.05px;
+    margin: 108px 0px 0px 164px;
+    height: 221px;
+}
+.P-3 {
+    margin: 32px auto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+    font-family: "Inter", sans-serif;
+}
+.footer-icon {
+    width: 86px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.footerdiv-2 {
+    width: 136px;
+    height: 223px;
+    margin: 108px 0px 0px 73.95px;
+}
+.footerdiv-3 {
+    width: 199px;
+    height: 223px;
+    margin: 108px 0px 0px 200px;
+}
+.footerdiv-4 {
+    width: 107px;
+    height: 127.45px;
+    margin: 108px 0px 0px 94px;
+}
+.little-box {
+    width: 80px;
+    height: 45px;
+    background-color: #054A68;
+    text-align: center;
+    margin-top: 58.86px;
+    
+}
+.P-4 {
+    padding: 14px 16px;
+    font-family: "Inter", sans-serif;
+    color: #FFFFFF;
+}
+.listi {
+    font-size: 14px;
+    padding-top: 71px;
+    font-family: "Inter", sans-serif;
+}
+.H-2 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.2px;
+    font-family: "Inter", sans-serif;
+}
+.listebii {
+    font-size: 14px;
+    padding-top: 30px;
+}
